@@ -9,7 +9,5 @@ I am particularly interested in contributing to open-source projects that have a
 I am always open to new opportunities and collaborations with like-minded professionals. If you are looking for a dedicated and results-driven developer, I would be excited to connect and explore how we can work together to create innovative solutions.
 
 ## Contact Me
-You can reach me via email at belloabiodun17@gmail.com, or connect with me on the following platforms:
+You can reach me via email at `belloabiodun17@gmail.com`, or connect with me [LinkedIn](https://www.linkedin.com/in/oyedele-abiodun/)!
 
-- [LinkedIn](https://www.linkedin.com/in/oyedele-abiodun/)!
-- [Twitter](https://twitter.com/OyedeleMagret) 
