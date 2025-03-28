@@ -17,7 +17,7 @@ If you're looking for a dedicated and results-driven developer, I'd love to conn
 
 ## 📬 Contact Me  
 📧 Email: [belloabiodun17@gmail.com](mailto:belloabiodun17@gmail.com)  
-💼 LinkedIn: [Oyedele Abiodun Magret](https://www.linkedin.com/in/oyedele-abiodun/) 
+💼 LinkedIn: [Oyedele Abiodun Magret](https://www.linkedin.com/in/oyedele-abiodun/)
 🚀 GitHub: [Magret1730](https://github.com/Magret1730)  
 
 ---
