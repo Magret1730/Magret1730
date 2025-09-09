@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Magret</h1>
+<h1 align="center">Hi 👋👋, I'm Magret</h1>
 <!-- <h3 align="center">I am a passionate Full Stack Developer with a strong foundation in software development. After completing my studies at ALX, I have continued to refine my technical skills through practical experience and real-world projects. I also expanded my expertise at BrainStation, where I gained deeper insights into modern technologies and industry best practices. I am particularly interested in contributing to open-source projects that create meaningful impact. My goal is to build scalable, efficient, and high-quality solutions that solve real-world challenges.</h3> -->
 <h3 align="center">
   Full Stack Developer with 2+ years of hands-on experience building and deploying scalable web applications using JavaScript, TypeScript, Python, Flask, React, and RESTful APIs. Trained     through the ALX Africa Software Engineering Program and the BrainStation Software Development Diploma, with professional experience at Vifta, contributing to end-to-end feature             development. I am opened to new roles and interested in contributing to open-source projects that create meaningful impact. My goal is to build scalable, efficient, and high-quality        solutions that solve real-world challenges.
@@ -20,9 +20,9 @@ If you're looking for a dedicated and results-driven developer, I'd love to conn
 
 ## 📬 Contact Me  
 📧 Email: [belloabiodun17@gmail.com](mailto:belloabiodun17@gmail.com)  
-💼 LinkedIn: [Oyedele Abiodun Magret](https://www.linkedin.com/in/oyedele-abiodun/)
-🚀 GitHub: [Magret1730](https://github.com/Magret1730)
-👩🏽‍💻 Porfolio: [magret.ca](www.magret.ca)
+💼 LinkedIn: [Oyedele Abiodun Magret](https://www.linkedin.com/in/oyedele-abiodun/)   
+🚀 GitHub: [Magret1730](https://github.com/Magret1730)   
+👩🏽‍💻 Porfolio: [magret.ca](www.magret.ca)   
 
 
 
