@@ -39,10 +39,6 @@ Docker • CI/CD • AWS
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magret1730&label=Profile%20views&color=0e75b6&style=flat" alt="magret1730" /> </p>
-
----
-
 ## Let’s Collaborate
 
 I’m open to opportunities and collaborations where I can contribute to building **scalable systems and impactful solutions**.
